@@ -98,6 +98,7 @@ Each row in the dataset represents a single employee, with the following fields:
 
 **Kolapo Ilerioluwa Great-Grace**
  - Ilerioluwakolapo12@gmail.com
+ - http://linkedin.com/in/kolapo-ilerioluwa-830530246
  - Data Analyst | Excel | Power BI | SQL | Python
 
 
